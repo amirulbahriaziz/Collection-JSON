@@ -1,0 +1,66 @@
+{
+  "__WRITTEN_BY__": "Amirul Aziz",
+  "__LAST_UPDATE__": "15 Jul 2020",
+  "__REFERENCES__": [
+    "https://gist.github.com/zulhfreelancer/9cc1927cac37fd354ed2a56377a98ffa",
+    "https://github.com/AsyrafHussin/malaysia-postcodes"
+  ],
+  "__DATA__": [
+    {
+      "state": "Johor",
+      "stateFull": "Johor Darul Takzim"
+    },
+    {
+      "state": "Kedah",
+      "stateFull": "Kedah Darul Aman"
+    },
+    {
+      "state": "Kelantan",
+      "stateFull": "Kelantan Darul Naim"
+    },
+    {
+      "state": "Kuala Lumpur",
+      "stateFull": "Wilayah Persekutuan Kuala Lumpur"
+    },
+    {
+      "state": "Labuan",
+      "stateFull": "Wilayah Persekutuan Labuan"
+    },
+    {
+      "state": "Melaka",
+      "stateFull": "Melaka Bandaraya Bersejarah"
+    },
+    {
+      "state": "Negeri Sembilan",
+      "stateFull": "Negeri Sembilan Darul Khusus"
+    },
+    {
+      "state": "Pahang",
+      "stateFull": "Pahang Darul Makmur"
+    },
+    {
+      "state": "Perak",
+      "stateFull": "Perak Darul Ridzuan"
+    },
+    {
+      "state": "Perlis",
+      "stateFull": "Perlis Indera Kayangan"
+    },
+    {
+      "state": "Pulau Pinang",
+      "stateFull": "Pulau Pinang Pulau Mutiara"
+    },
+    {
+      "state": "Putrajaya",
+      "stateFull": "Wilayah Persekutuan Putrajaya"
+    },
+    {
+      "state": "Selangor",
+      "stateFull": "Selangor Daruh Ehsan"
+    },
+    {
+      "state": "Terengganu",
+      "stateFull": "Terengganu Darul Iman"
+    }
+  ]
+}
